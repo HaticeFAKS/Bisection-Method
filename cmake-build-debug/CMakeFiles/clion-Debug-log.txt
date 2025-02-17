@@ -1,0 +1,1 @@
+CMakeLists.txt not found in C:\Users\riytt\Desktop\Üniversite\2.sene\2.Dönem\Nümerik Analiz\Ödevler\Khadıja_FAKSH_1220505802 Select CMakeLists.txt
